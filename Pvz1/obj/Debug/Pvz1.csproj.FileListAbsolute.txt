@@ -1,0 +1,90 @@
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P175B123_OP2\programos\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+E:\DA\MODULIAI\P170B115_SMA\SMA_2017\Pvz1\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+E:\PEDAGOGINIS DARBAS\P170B115_SMA_LT_ruduo_2017\SMA_2017_pvz\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+G:\AndriusK\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.csprojResolveAssemblyReference.cache
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.Cache
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+G:\AndriusK\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+C:\Users\lukas\Desktop\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+C:\Users\lukas\Desktop\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+C:\Users\lukas\Desktop\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+C:\Users\lukas\Desktop\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+C:\Users\lukas\Desktop\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+C:\Users\lukas\Desktop\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\bin\Debug\Pvz1.exe.config
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\bin\Debug\Pvz1.exe
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\bin\Debug\Pvz1.pdb
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.dll
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\bin\Debug\MathNet.Numerics.xml
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.Form1.resources
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.exe
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Pvz1\Pvz1\obj\Debug\Pvz1.pdb
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\bin\Debug\Pvz1.exe.config
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\bin\Debug\Pvz1.exe
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\bin\Debug\Pvz1.pdb
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\bin\Debug\MathNet.Numerics.dll
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\bin\Debug\MathNet.Numerics.xml
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.Form1.resources
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.csproj.CopyComplete
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.exe
+C:\Users\lukas\OneDrive - Kaunas University of Technology\5 Semestras\Skaitiniai\Lukas Zilinskas Lab 1\Pvz1\obj\Debug\Pvz1.pdb
